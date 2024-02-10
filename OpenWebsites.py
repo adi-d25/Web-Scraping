@@ -16,3 +16,4 @@ for name in socialMedia:
     url = "https://www." + name + ".com"
     # Open the URL in the default web browser
     webbrowser.open(url)
+    
